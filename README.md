@@ -3,7 +3,7 @@ C#.NET İmplementation : Data encoding techniques in computer networks
 
 1.NRZ(L)	NRZL	Non-return-to-zero level	
 
-2.NRZ(I)	NRZI	Non-return-to-zero inverted	Refers to either an NRZ(M) or NRZ(S) code.
+2.NRZ(I)	NRZI	Non-return-to-zero inverted	
 
 3.Manchester
 
